@@ -1,10 +1,10 @@
 /*
  * 將要隨機派發的網址放入下方（不需排序）
- *
+ * 
  * 並請注意：
  * 1. 網址請用引號（或稱「撇號」，單引號或雙引號皆可）包起來
  * 2. 包起來的網址之間用逗號分隔
  */
 
 
-const urls = ['https://forms.gle/6nr8RJ8XDDkBYFtK7','https://forms.gle/hf2QCndwVAuGhgaP7','https://forms.gle/cUgKwpTj9s7Xi2c57']
+const urls = ['https://forms.gle/Cdfz4TsvqdD9p9Y58','https://forms.gle/yWcy5vp7k9Z9aLer7','https://forms.gle/Bjq8WAi2CSqwWzq3A']
