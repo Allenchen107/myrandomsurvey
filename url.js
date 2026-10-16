@@ -7,4 +7,4 @@
  */
 
 
-const urls = ['https://forms.gle/Cdfz4TsvqdD9p9Y58','https://forms.gle/yWcy5vp7k9Z9aLer7','https://forms.gle/Bjq8WAi2CSqwWzq3A']
+const urls = ['https://forms.gle/YgvUiCWvoKdDC4767','https://forms.gle/gfrRNtas5P9uuXu19','https://forms.gle/dc5vdX3kGSY2cQh59']
